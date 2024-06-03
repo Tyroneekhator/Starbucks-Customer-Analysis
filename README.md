@@ -3,12 +3,13 @@
 ## Glossary
 - EDA: Exploratory Data analysis
 - Revenue:  the total amount of money brought in by a company's operations, measured over a set amount of time.
-- Average: an average is a single number or value that best represents a set of data.
+- Average: an average is a single number or value that best represents a data set.
 - Sales: Unit price * quantity
 - KPIs: Key Point Indicators are metrics used to measure the business's success.
 - Metrics: a system or standard of measurement.
-- profit: The income gotten after expenditure.
-- Expenses: Are the money spent or costs incurred in a company's revenue-generating efforts.
+- profit: The income gotten after expenses.
+- Expenses: These are the money spent or costs incurred in a company's revenue-generating efforts.
+- Coffee blends: A synonym for the product ID
   
 ## Project Overview
 This project aims to answer stakeholder questions and Key Point Indicators that affect the business's success. Furthermore, the report will account for the data sources & types used as well as its cleaning and transforming processes, and finally, the insights obtained from the Exploratory Data Analysis and the recommendations one can provide by the information.
@@ -42,5 +43,25 @@ A visual representation of all the insights from the exploratory data analysis w
 - Postcode: the postcode of each customer.
 - Price per 100g: the cost when the item is 0.1kg.
 ## Tools Used
-
-
+- Excel: A spreadsheet software that features calculation or computation capabilities, graphing tools, pivot tables, and a macro programming language called Visual Basic for Applications.
+## Data cleaning and  transforming process
+- Check for duplicates
+- Check for null values
+- Added new columns namely Order Day; Order month and Sales
+- Used 'XLOOKUP' & 'INDEX MATCH' to extract data from the spreadsheet.
+- Formula was used to get sales.
+    - Sales = Unit price * Quantity
+- Used the 'Text' function to get the day & month from the 'order date' column.
+- Created pivot to start Exploratory Data Analysis
+- Use filter panels for the dashboard
+## Stakeholder questions and Key Point Indicators(KPI'S)
+1. Total revenue for Starbucks
+2. Average size of cup ordered
+3. Average bill per order
+4. Total cups sold
+5. Daily trends of Starbucks revenue
+6. Sales revenue by country
+7. Percentage (%) of the most ordered coffee blends
+8. the most expensive coffee blends
+9. top selling coffee blends
+10. customer that has generate the most revenue
