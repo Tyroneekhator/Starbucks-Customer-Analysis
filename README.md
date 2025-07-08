@@ -11,9 +11,9 @@
 - [Insights gotten from the analysis](#insights-gotten-from-the-analysis)
 - [Recommendations based on the analysis](#recommendations-based-on-the-analysis)
 ## Glossary
-- EDA: Exploratory Data analysis
+- EDA: Exploratory Data Analysis
 - Revenue:  the total amount of money brought in by a company's operations, measured over a set amount of time.
-- Average: an average is a single number or value that best represents a data set.
+- Average: An average is a single number or value that best represents a data set.
 - Sales: Unit price * quantity
 - KPIs: Key Point Indicators are metrics used to measure the business's success.
 - Metrics: a system or standard of measurement.
@@ -22,7 +22,7 @@
 - Coffee blends: A synonym for the product ID
   
 ## Project Overview
-This project aims to answer stakeholder questions and Key Point Indicators that affect the business's success. Furthermore, the report will account for the data sources & types used as well as its cleaning and transforming processes, and finally, the insights obtained from the Exploratory Data Analysis and the recommendations one can provide by the information.
+This project aims to answer stakeholder questions and Key Point Indicators that affect the business's success. Furthermore, the report will account for the data sources and types used, as well as their  data cleaning and transformation processes. Finally, it will provide insights obtained from the Exploratory Data Analysis and recommendations that can be made based on the information.
 
 ## Dashboard
 A visual representation of all the insights from the exploratory data analysis with time, roast type, size and loyalty card.<br /> <br /> ![Screenshot (463)](https://github.com/Tyroneekhator/Starbucks-Customer-Analysis/assets/72547969/a2958319-70ea-4b33-87ae-15c6e37c9bfe)
